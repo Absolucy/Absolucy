@@ -1,4 +1,4 @@
-### Hi, I'm Aspen! <3
+### Hi, I'm Lucy! <3
 
 I'm rather good with computers (seriously, it's my only talent), and program a lot, often out of boredom. Feel free to look at, take inspiration from, contribute to, or use my projects!
 
