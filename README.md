@@ -15,6 +15,7 @@ I'm rather good with computers (seriously, it's my only talent), and program a l
    - 🛡️ Security
    - 🔐 Copy protection/code obfuscation
  - 🛠 I know <img valign="middle" src="assets/rust.svg" width="24px" /> Rust, <img valign="middle" src="assets/swift.svg" width="24px" /> Swift, <img valign="middle" src="assets/objc.svg" width="24px" /> Objective-C, <img valign="middle" src="assets/c.svg" width="24px" /> C, <img valign="middle" src="assets/lua.svg" width="24px" /> Lua, <img valign="middle" src="assets/js.svg" width="24px" /> JavaScript, and <img valign="middle" src="assets/c++.svg" width="24px" /> some C++ (from most knowledge to least knowledge). <!-- All icons from https://devicon.dev -->
+ - 😂 Say my username (Absolushe) out loud. It's a nice pun, isn't it?
 
 #### 💬 Contact me
 
