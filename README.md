@@ -15,9 +15,9 @@ I'm rather good with computers (seriously, it's my only talent), and program a l
    - 🛡️ Security
    - 🔐 Copy protection/code obfuscation
  - 🛠 I know <img valign="middle" src="assets/rust.svg" width="24px" /> Rust, <img valign="middle" src="assets/swift.svg" width="24px" /> Swift, <img valign="middle" src="assets/objc.svg" width="24px" /> Objective-C, <img valign="middle" src="assets/c.svg" width="24px" /> C, <img valign="middle" src="assets/lua.svg" width="24px" /> Lua, <img valign="middle" src="assets/js.svg" width="24px" /> JavaScript, and <img valign="middle" src="assets/c++.svg" width="24px" /> some C++ (from most knowledge to least knowledge). <!-- All icons from https://devicon.dev -->
- - 😂 Say my username (Ab-so-loo-she) out loud. It's a nice pun, isn't it?
+ - 😂 Say my username (Abso-lucy) out loud. It's a nice pun, isn't it?
 
 #### 💬 Contact me
 
-* <a href="https://twitter.com/Absolushe" target="blank"><img valign="middle" src="assets/twitter.svg" width="24px"/> @Absolushe</a>
+* <a href="https://twitter.com/Absolucyyy" target="blank"><img valign="middle" src="assets/twitter.svg" width="24px"/> @Absolucyyy</a>
 * 📧 [aspen@aspenuwu.me](mailto:aspen@aspenuwu.me) for inquries, questions, and such, and [support@aspenuwu.me](mailto:support@aspenuwu.me) if you need support with some of my software.
