@@ -18,5 +18,5 @@ I'm rather good with computers (seriously, it's my only talent), and program a l
 
 #### 💬 Contact me
 
-* <a href="https://twitter.com/aspenluxxxy" target="blank"><img valign="middle" src="assets/twitter.svg" width="24px"/> @aspenluxxxy</a>
+* <a href="https://twitter.com/Absolushe" target="blank"><img valign="middle" src="assets/twitter.svg" width="24px"/> @Absolushe</a>
 * 📧 [aspen@aspenuwu.me](mailto:aspen@aspenuwu.me) for inquries, questions, and such, and [support@aspenuwu.me](mailto:support@aspenuwu.me) if you need support with some of my software.
