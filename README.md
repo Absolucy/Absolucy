@@ -20,4 +20,4 @@ I'm rather good with computers (seriously, it's my only talent), and program a l
 #### 💬 Contact me
 
 * <a href="https://twitter.com/Absolucyyy" target="blank"><img valign="middle" src="assets/twitter.svg" width="24px"/> @Absolucyyy</a>
-* 📧 [aspen@aspenuwu.me](mailto:aspen@aspenuwu.me) for inquries, questions, and such, and [support@aspenuwu.me](mailto:support@aspenuwu.me) if you need support with some of my software.
+* 📧 [lucy@absolucy.moe](mailto:lucy@absolucy.moe) for inquries, questions, and such, and [support@absolucy.moe](mailto:support@absolucy.moe) if you need support with some of my software.
