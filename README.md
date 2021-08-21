@@ -10,7 +10,7 @@ I'm rather good with computers (seriously, it's my only talent), and program a l
  - 😊 Gender: 🏳️‍⚧️ female, [she/her](https://pronoun.is/she/her) pronouns
  - 🌱 Hobbies: programming, talking to whoever will listen.
  - 🔭 Interested in:
-   - 📱 iOS tweaking/development
+   - 📱 iOS development (mainly SwiftUI)
    - 🔑 Encryption
    - 🛡️ Security
    - 🔐 Copy protection/code obfuscation
