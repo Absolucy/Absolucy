@@ -2,8 +2,6 @@
 
 I'm rather good with computers (seriously, it's my only talent), and program a lot, often out of boredom. Feel free to look at, take inspiration from, contribute to, or use my projects!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F369GM7)
-
 #### 👩 About Me
 
 
